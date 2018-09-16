@@ -2,6 +2,12 @@
 
 # -*- coding:utf8 -*-
 
+# TODO -----------------
+# TODO docstring 
+# TODO ask at the end of the program if user wants to continue with new equation 
+# TODO offer the possibility to have coefficients in file in order to resolve multiple equations 
+# TODO implement gui in order to be more user-friendly 
+# TODO ------------------
 
 """
 a*x**2 + b*x +c = 0
